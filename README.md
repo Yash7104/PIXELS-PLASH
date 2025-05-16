@@ -11,7 +11,7 @@ A personal photo splash website made with HTML and CSS. Explore dark and light-t
 
 ---
 
-## 🚀 Please follow the given steps to fork thi repository
+## 🚀 Please follow the given steps to fork this repository
 
 ### 1. Fork the Repository
 
