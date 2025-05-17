@@ -11,6 +11,11 @@ A personal photo splash website made with HTML and CSS. Explore dark and light-t
 
 ---
 
+## 🔗 Live Website
+
+Visit the live portfolio here:  
+👉 [https://yash7104.github.io/PIXELS-PLASH/](https://yash7104.github.io/PIXELS-PLASH/)
+
 ## 🚀 Please follow the given steps to fork this repository
 
 ### 1. Fork the Repository
