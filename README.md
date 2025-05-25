@@ -7,7 +7,7 @@ A personal photo splash website made with HTML and CSS. Explore dark and light-t
 - Stylish layout with background images
 - Organized light and dark image sections
 - Download buttons for images
-- Contact info
+- Contact info for querys
 
 ---
 
@@ -32,15 +32,13 @@ After forking, open your terminal or command prompt and run this command:
 ```bash
 git clone https://github.com/YOUR_USERNAME/PIXELS-PLASH.git
 ```
-### 3. Do you're next step 
+### 3. Do you're next step          
 
-git status         
+- git add .          
 
-git add .          
+- git commit -m "Describe your changes here" 
 
-git commit -m "Describe your changes here" 
-
-git push
+- git push
 
 ### 4. Last step 
 
